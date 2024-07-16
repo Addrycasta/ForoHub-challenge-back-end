@@ -1,5 +1,5 @@
 
-<h1>  Alura_Challengue Back end: ForoHub </h1>
+<h1>  Alura_Challenge Back end: ForoHub </h1>
 
 <h2> 📝 Descripción</h2>
 <p>
